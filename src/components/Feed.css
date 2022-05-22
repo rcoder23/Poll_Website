@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    /* background-color: bisque; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.card-title{
+   background-color: white;
+   border-radius: 2px;
+   transition-duration: 0.45s;
+   width: 80%;
+   /* align-items: left; */
+}
+
+
+
+
+
+.card-title:hover{
+    background-color: #4CAF50;
+    color: white;
+}

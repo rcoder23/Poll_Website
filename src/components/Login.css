@@ -1,0 +1,26 @@
+
+.container1{
+    margin-left: 22%;
+    margin-top:5%;
+    /* background-color: aquamarine; */
+    width: 50%;
+}
+
+input{
+    width: 100%;
+    /* background-color: rgb(46, 212, 204);
+    color: white; */
+}
+
+.card-title{
+    background-color: white;
+    border-radius: 2px;
+    transition-duration: 0.45s;
+    width: 80%;
+    /* align-items: left; */
+ }
+ 
+ 
+p{
+    color:black
+}
