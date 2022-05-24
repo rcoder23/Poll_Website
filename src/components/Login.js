@@ -83,8 +83,9 @@ pauseOnHover
     <center> <h1>Login</h1> </center>
       <form onSubmit={handleSubmit}>
       <div class="mb-3">
+      
           <label for="exampleInputEmail1" class="form-label">
-            Email address
+          Email address
           </label>
           <input
             type="email"
