@@ -3,6 +3,8 @@
 It is Pooling Application that created on MERN Stack .
 In this user can create account ,create Polls and voted on differnet Polls.
 
+(Pollback folder is the backend file)
+
 
 Screenshots of projects
 ![login](https://user-images.githubusercontent.com/62320661/169692167-2f8d47cb-d007-491a-baed-25d48f70915b.png)
