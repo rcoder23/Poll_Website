@@ -2,6 +2,7 @@
 
 It is Pooling Application that created on MERN Stack .
 In this user can create account ,create Polls and voted on differnet Polls.
+Used Mangodb as backend , JWT for authentication and bcryptjs for hashing passoword .
 
 
 Screenshots of projects
